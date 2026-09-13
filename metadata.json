@@ -1,0 +1,5 @@
+{
+  "name": "ITRS Hub",
+  "description": "A centralized resource hub for setting up new PCs with essential applications and department-specific software.",
+  "requestFramePermissions": []
+}
